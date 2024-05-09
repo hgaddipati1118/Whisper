@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718431638537",
+    "project_id": "whisper-9ab73",
+    "storage_bucket": "whisper-9ab73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718431638537:android:014325c09245624efb94d8",
+        "android_client_info": {
+          "package_name": "com.example.whisper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718431638537-7geg9pkuj9p4rm08hqkp6jbfq512th4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRg2bZlsBdr2dSzzLvMBnmvv0m6WPxdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718431638537-7geg9pkuj9p4rm08hqkp6jbfq512th4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
