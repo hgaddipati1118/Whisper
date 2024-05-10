@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'auth_form.dart';
 
 class Login extends StatelessWidget {
   const Login({super.key});
@@ -9,13 +10,16 @@ class Login extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: Center(
-        child: ListView(
-          children: const <Widget>[
-            Text("Whisper"),
-            Text("Email"),
-            Text("Password"),
-          ],
+      home: Scaffold(
+        appBar: AppBar(title: const Text("Whisper Login")),
+        body: const Center(
+          child: Column(
+            children: <Widget>[
+              Text("Whisper"),
+              AuthForm(),
+              Text("Password"),
+            ],
+          ),
         ),
       ),
     );
