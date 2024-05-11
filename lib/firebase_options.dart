@@ -78,12 +78,12 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyA82EIlqPXjsW3oNvTGwT05boAr3OqTvsM',
-    appId: '1:718431638537:web:e15ee6752e48f480fb94d8',
+    appId: '1:718431638537:web:5e412693cd3eb3fbfb94d8',
     messagingSenderId: '718431638537',
     projectId: 'whisper-9ab73',
     authDomain: 'whisper-9ab73.firebaseapp.com',
     storageBucket: 'whisper-9ab73.appspot.com',
-    measurementId: 'G-DDFG6JGCCH',
+    measurementId: 'G-QYT3WRE726',
   );
 
 }
